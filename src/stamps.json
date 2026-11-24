@@ -1,0 +1,1177 @@
+{
+  "Snack Shack": {
+    "game": "Party",
+    "description": "Food emote shack",
+    "difficulty": "easy"
+  },
+  "Go Green": {
+    "game": "Party",
+    "description": "Recycling",
+    "difficulty": "easy"
+  },
+  "Stage Crew": {
+    "game": "Activities",
+    "description": "Switchbox 3000",
+    "difficulty": "easy"
+  },
+  "Underground": {
+    "game": "Activities",
+    "description": "Go underground",
+    "difficulty": "easy"
+  },
+  "Go Swimming": {
+    "game": "Activities",
+    "description": "Inflatable duck",
+    "difficulty": "easy"
+  },
+  "Clock Target": {
+    "game": "Activities",
+    "description": "Clock target",
+    "difficulty": "easy"
+  },
+  "Field Agent": {
+    "game": "Activities",
+    "description": "1 EPF medal",
+    "difficulty": "easy"
+  },
+  "Puffle Dig": {
+    "game": "Activities",
+    "description": "1 puffle dig",
+    "difficulty": "easy"
+  },
+  "Tasty Treasure": {
+    "game": "Activities",
+    "description": "Favorite food dig",
+    "difficulty": "easy"
+  },
+  "Going Places": {
+    "game": "Activities",
+    "description": "30 rooms",
+    "difficulty": "medium"
+  },
+  "Special Agent": {
+    "game": "Activities",
+    "description": "5 EPF medals",
+    "difficulty": "medium"
+  },
+  "Special Forces": {
+    "game": "Activities",
+    "description": "10 EPF medals",
+    "difficulty": "medium"
+  },
+  "Every Color": {
+    "game": "Activities",
+    "description": "Dig w/ 11 colors",
+    "difficulty": "medium"
+  },
+  "Dig All Day": {
+    "game": "Activities",
+    "description": "Dig 5x",
+    "difficulty": "medium"
+  },
+  "Puffle Owner": {
+    "game": "Activities",
+    "description": "Adopt 16 puffles",
+    "difficulty": "hard"
+  },
+  "Full House": {
+    "game": "Activities",
+    "description": "99 igloo items",
+    "difficulty": "hard"
+  },
+  "Elite Protector": {
+    "game": "Activities",
+    "description": "25 EPF medals",
+    "difficulty": "hard"
+  },
+  "Big Dig": {
+    "game": "Activities",
+    "description": "50+ coins",
+    "difficulty": "hard"
+  },
+  "Treasure Box": {
+    "game": "Activities",
+    "description": "Treasure box dig",
+    "difficulty": "hard"
+  },
+  "Island Guardian": {
+    "game": "Activities",
+    "description": "50 EPF medals",
+    "difficulty": "extreme"
+  },
+  "Squid Spotter": {
+    "game": "Aqua Grabber",
+    "description": "Clam squid",
+    "difficulty": "easy"
+  },
+  "Aqua Puffle": {
+    "game": "Aqua Grabber",
+    "description": "Pink puffle",
+    "difficulty": "easy"
+  },
+  "Soda Success": {
+    "game": "Aqua Grabber",
+    "description": "Complete Soda Seas",
+    "difficulty": "medium"
+  },
+  "Clam Success": {
+    "game": "Aqua Grabber",
+    "description": "Complete Clam Waters",
+    "difficulty": "medium"
+  },
+  "Soda Master": {
+    "game": "Aqua Grabber",
+    "description": "Soda Seas no life loss",
+    "difficulty": "medium"
+  },
+  "Clam Master": {
+    "game": "Aqua Grabber",
+    "description": "Clam Waters no life loss",
+    "difficulty": "medium"
+  },
+  "Get Fluffy": {
+    "game": "Aqua Grabber",
+    "description": "Capture Fluffy",
+    "difficulty": "medium"
+  },
+  "Get the Worm": {
+    "game": "Aqua Grabber",
+    "description": "Capture worn",
+    "difficulty": "medium"
+  },
+  "Bubble Catch": {
+    "game": "Aqua Grabber",
+    "description": "Puffle Bubble",
+    "difficulty": "medium"
+  },
+  "Pearl Capture": {
+    "game": "Aqua Grabber",
+    "description": "All white pearls",
+    "difficulty": "medium"
+  },
+  "Clam Treasure": {
+    "game": "Aqua Grabber",
+    "description": "Black pearl",
+    "difficulty": "hard"
+  },
+  "Soda Treasure": {
+    "game": "Aqua Grabber",
+    "description": "Crab prize",
+    "difficulty": "hard"
+  },
+  "Clam Compress": {
+    "game": "Aqua Grabber",
+    "description": "Complete Clam Compress mode",
+    "difficulty": "hard"
+  },
+  "Soda Compress": {
+    "game": "Aqua Grabber",
+    "description": "Complete Soda Compress mode",
+    "difficulty": "hard"
+  },
+  "Clam Pressure": {
+    "game": "Aqua Grabber",
+    "description": "Clam Compress no life loss",
+    "difficulty": "hard"
+  },
+  "Soda Pressure": {
+    "game": "Aqua Grabber",
+    "description": "Soda Compress no life loss",
+    "difficulty": "hard"
+  },
+  "Clam Timer": {
+    "game": "Aqua Grabber",
+    "description": "Clam time trial",
+    "difficulty": "hard"
+  },
+  "Soda Timer": {
+    "game": "Aqua Grabber",
+    "description": "Soda time trial",
+    "difficulty": "hard"
+  },
+  "Crab's Treasure": {
+    "game": "Aqua Grabber",
+    "description": "Steal",
+    "difficulty": "hard"
+  },
+  "Mullet Capture": {
+    "game": "Aqua Grabber",
+    "description": "Capture Mullet",
+    "difficulty": "extreme"
+  },
+  "Astro5": {
+    "game": "Astro Barrier",
+    "description": "5 lvls",
+    "difficulty": "easy"
+  },
+  "Astro5 Max": {
+    "game": "Astro Barrier",
+    "description": "5 lvls no miss",
+    "difficulty": "easy"
+  },
+  "Astro40": {
+    "game": "Astro Barrier",
+    "description": "40 lvls",
+    "difficulty": "medium"
+  },
+  "Ship Blast": {
+    "game": "Astro Barrier",
+    "description": "Blaster shoots ship",
+    "difficulty": "medium"
+  },
+  "1-up Blast": {
+    "game": "Astro Barrier",
+    "description": "Blaster gets 1-up",
+    "difficulty": "medium"
+  },
+  "Astro Secret": {
+    "game": "Astro Barrier",
+    "description": "All secret levels",
+    "difficulty": "medium"
+  },
+  "Astro10 Max": {
+    "game": "Astro Barrier",
+    "description": "10 lvls no miss",
+    "difficulty": "medium"
+  },
+  "Astro20 Max": {
+    "game": "Astro Barrier",
+    "description": "20 lvls no miss",
+    "difficulty": "medium"
+  },
+  "Astro Expert": {
+    "game": "Astro Barrier",
+    "description": "All expert levels",
+    "difficulty": "hard"
+  },
+  "Astro30 Max": {
+    "game": "Astro Barrier",
+    "description": "30 lvls no miss",
+    "difficulty": "hard"
+  },
+  "Astro 1-up": {
+    "game": "Astro Barrier",
+    "description": "Get 8 1-ups",
+    "difficulty": "hard"
+  },
+  "Astro Master": {
+    "game": "Astro Barrier",
+    "description": "secret + advanced",
+    "difficulty": "extreme"
+  },
+  "Great Balance": {
+    "game": "Cart Surfer",
+    "description": "Recover balance",
+    "difficulty": "easy"
+  },
+  "Cart Pro": {
+    "game": "Cart Surfer",
+    "description": "150 coins",
+    "difficulty": "medium"
+  },
+  "Mine Marvel": {
+    "game": "Cart Surfer",
+    "description": "10 tricks inside cart",
+    "difficulty": "medium"
+  },
+  "Mine Mission": {
+    "game": "Cart Surfer",
+    "description": "10 tricks outside cart",
+    "difficulty": "medium"
+  },
+  "Trick Master": {
+    "game": "Cart Surfer",
+    "description": "14 tricks",
+    "difficulty": "medium"
+  },
+  "Puffle Power": {
+    "game": "Cart Surfer",
+    "description": "Puffle wobble",
+    "difficulty": "medium"
+  },
+  "Cart Expert": {
+    "game": "Cart Surfer",
+    "description": "250 coins",
+    "difficulty": "hard"
+  },
+  "Mine Grind": {
+    "game": "Cart Surfer",
+    "description": "Grind on 8 turns",
+    "difficulty": "hard"
+  },
+  "Surf's Up": {
+    "game": "Cart Surfer",
+    "description": "Surf on 8 turns",
+    "difficulty": "hard"
+  },
+  "Flip Mania": {
+    "game": "Cart Surfer",
+    "description": "20 flips",
+    "difficulty": "hard"
+  },
+  "Ultimate Duo": {
+    "game": "Cart Surfer",
+    "description": "20 tricks w/ puffle",
+    "difficulty": "hard"
+  },
+  "Cart Master": {
+    "game": "Cart Surfer",
+    "description": "350 coins",
+    "difficulty": "extreme"
+  },
+  "First Trick": {
+    "game": "Catchin' Waves",
+    "description": "1 trick",
+    "difficulty": "easy"
+  },
+  "Puffle Surfin'": {
+    "game": "Catchin' Waves",
+    "description": "Red Puffle",
+    "difficulty": "easy"
+  },
+  "Easy Flip": {
+    "game": "Catchin' Waves",
+    "description": "1 flip",
+    "difficulty": "easy"
+  },
+  "Easy Tube": {
+    "game": "Catchin' Waves",
+    "description": "100 tube",
+    "difficulty": "easy"
+  },
+  "Easy Grind": {
+    "game": "Catchin' Waves",
+    "description": "100 grind",
+    "difficulty": "easy"
+  },
+  "Graduate": {
+    "game": "Catchin' Waves",
+    "description": "Surf Lesson",
+    "difficulty": "easy"
+  },
+  "Easy Spin": {
+    "game": "Catchin' Waves",
+    "description": "3 spins",
+    "difficulty": "easy"
+  },
+  "Trick Star": {
+    "game": "Catchin' Waves",
+    "description": "13 tricks",
+    "difficulty": "medium"
+  },
+  "Podium Puffle": {
+    "game": "Catchin' Waves",
+    "description": "Podium w/ puffle",
+    "difficulty": "medium"
+  },
+  "Flip Star": {
+    "game": "Catchin' Waves",
+    "description": "3 flips",
+    "difficulty": "medium"
+  },
+  "Easy Jump": {
+    "game": "Catchin' Waves",
+    "description": "8 penguin jump",
+    "difficulty": "medium"
+  },
+  "Super Tube": {
+    "game": "Catchin' Waves",
+    "description": "1k tube",
+    "difficulty": "medium"
+  },
+  "Super Spin": {
+    "game": "Catchin' Waves",
+    "description": "7 spins",
+    "difficulty": "medium"
+  },
+  "Super Grind": {
+    "game": "Catchin' Waves",
+    "description": "700 grind",
+    "difficulty": "medium"
+  },
+  "Max Grind": {
+    "game": "Catchin' Waves",
+    "description": "1.2k grind",
+    "difficulty": "hard"
+  },
+  "First Place": {
+    "game": "Catchin' Waves",
+    "description": "1st place",
+    "difficulty": "hard"
+  },
+  "Max Flips": {
+    "game": "Catchin' Waves",
+    "description": "10 flips",
+    "difficulty": "hard"
+  },
+  "High Jump": {
+    "game": "Catchin' Waves",
+    "description": "20 penguin jump",
+    "difficulty": "hard"
+  },
+  "Max Tube": {
+    "game": "Catchin' Waves",
+    "description": "5k tube",
+    "difficulty": "hard"
+  },
+  "Max Spin": {
+    "game": "Catchin' Waves",
+    "description": "10 spins",
+    "difficulty": "hard"
+  },
+  "Shark!": {
+    "game": "Catchin' Waves",
+    "description": "Spot Shark",
+    "difficulty": "extreme"
+  },
+  "Survivor": {
+    "game": "Catchin' Waves",
+    "description": "Survival",
+    "difficulty": "extreme"
+  },
+  "Snack Attack": {
+    "game": "Ice Fishing",
+    "description": "Feed shark",
+    "difficulty": "easy"
+  },
+  "Shock King": {
+    "game": "Ice Fishing",
+    "description": "3 shocks",
+    "difficulty": "medium"
+  },
+  "Fishtastic": {
+    "game": "Ice Fishing",
+    "description": "15 fish no mistake",
+    "difficulty": "medium"
+  },
+  "Worm Win": {
+    "game": "Ice Fishing",
+    "description": "No life loss",
+    "difficulty": "hard"
+  },
+  "Crab Cuts": {
+    "game": "Ice Fishing",
+    "description": "3 crab cuts",
+    "difficulty": "hard"
+  },
+  "Afishionado": {
+    "game": "Ice Fishing",
+    "description": "45 fish no mistake",
+    "difficulty": "hard"
+  },
+  "Gray Goodies": {
+    "game": "Ice Fishing",
+    "description": "15 gray fish",
+    "difficulty": "hard"
+  },
+  "Prize Mullet": {
+    "game": "Ice Fishing",
+    "description": "Catch Mullet",
+    "difficulty": "hard"
+  },
+  "Fly Fisher": {
+    "game": "Ice Fishing",
+    "description": "63 5 min",
+    "difficulty": "hard"
+  },
+  "Ace Angler": {
+    "game": "Ice Fishing",
+    "description": "15 gray + mullet + no life loss",
+    "difficulty": "extreme"
+  },
+  "Lift Off!": {
+    "game": "JPA",
+    "description": "Return to pad",
+    "difficulty": "easy"
+  },
+  "Fuel Rank 1": {
+    "game": "JPA",
+    "description": "Lvl1 all fuels",
+    "difficulty": "easy"
+  },
+  "Puffle Pilot": {
+    "game": "JPA",
+    "description": "Green Puffle",
+    "difficulty": "easy"
+  },
+  "Jet Pack 5": {
+    "game": "JPA",
+    "description": "Finish level 5",
+    "difficulty": "medium"
+  },
+  "Crash!": {
+    "game": "JPA",
+    "description": "Crash in forest",
+    "difficulty": "medium"
+  },
+  "Fuel Rank 2": {
+    "game": "JPA",
+    "description": "Lvl2 all fuels",
+    "difficulty": "medium"
+  },
+  "Fuel Rank 3": {
+    "game": "JPA",
+    "description": "Lvl3 all fuels",
+    "difficulty": "medium"
+  },
+  "Fuel Rank 4": {
+    "game": "JPA",
+    "description": "Lvl4 all fuels",
+    "difficulty": "medium"
+  },
+  "Fuel Rank 5": {
+    "game": "JPA",
+    "description": "Lvl5 all fuels",
+    "difficulty": "medium"
+  },
+  "1-up Leader": {
+    "game": "JPA",
+    "description": "2 1-ups",
+    "difficulty": "medium"
+  },
+  "Puffle Bonus": {
+    "game": "JPA",
+    "description": "200 puffle coins",
+    "difficulty": "medium"
+  },
+  "Kerching!": {
+    "game": "JPA",
+    "description": "650 coins",
+    "difficulty": "hard"
+  },
+  "Fuel Command": {
+    "game": "JPA",
+    "description": "All fuels",
+    "difficulty": "hard"
+  },
+  "Fuel Wings": {
+    "game": "JPA",
+    "description": "Fall fuel",
+    "difficulty": "hard"
+  },
+  "1-up Captain": {
+    "game": "JPA",
+    "description": "All 1-ups",
+    "difficulty": "hard"
+  },
+  "Puffle Plus": {
+    "game": "JPA",
+    "description": "450 puffle coins",
+    "difficulty": "hard"
+  },
+  "Ace Pilot": {
+    "game": "JPA",
+    "description": "Ace Pilot",
+    "difficulty": "extreme"
+  },
+  "Puffle Boost": {
+    "game": "JPA",
+    "description": "Puffle fuel",
+    "difficulty": "extreme"
+  },
+  "Mission 1 Medal": {
+    "game": "Missions",
+    "description": "Mission 1",
+    "difficulty": "easy"
+  },
+  "Aunt Arctic Letter": {
+    "game": "Missions",
+    "description": "Mission 1 task",
+    "difficulty": "medium"
+  },
+  "Mission 2 Medal": {
+    "game": "Missions",
+    "description": "Mission 2",
+    "difficulty": "easy"
+  },
+  "G's Letter": {
+    "game": "Missions",
+    "description": "Mission 2 task",
+    "difficulty": "medium"
+  },
+  "Mission 3 Medal": {
+    "game": "Missions",
+    "description": "Mission 3",
+    "difficulty": "easy"
+  },
+  "Thank You Card": {
+    "game": "Missions",
+    "description": "Mission 3 task",
+    "difficulty": "medium"
+  },
+  "Mission 4 Medal": {
+    "game": "Missions",
+    "description": "Mission 4",
+    "difficulty": "easy"
+  },
+  "Handy Award": {
+    "game": "Missions",
+    "description": "Mission 4 task",
+    "difficulty": "medium"
+  },
+  "Mission 5 Medal": {
+    "game": "Missions",
+    "description": "Mission 5",
+    "difficulty": "easy"
+  },
+  "Pizza Box": {
+    "game": "Missions",
+    "description": "Mission 5 task",
+    "difficulty": "medium"
+  },
+  "Mission 6 Medal": {
+    "game": "Missions",
+    "description": "Mission 6",
+    "difficulty": "easy"
+  },
+  "Blueprint": {
+    "game": "Missions",
+    "description": "Mission 6 task",
+    "difficulty": "medium"
+  },
+  "Mission 7 Medal": {
+    "game": "Missions",
+    "description": "Mission 7",
+    "difficulty": "easy"
+  },
+  "Pennant": {
+    "game": "Missions",
+    "description": "Mission 7 task",
+    "difficulty": "medium"
+  },
+  "Mission 8 Medal": {
+    "game": "Missions",
+    "description": "Mission 8",
+    "difficulty": "easy"
+  },
+  "Cool Gift": {
+    "game": "Missions",
+    "description": "Mission 8 task",
+    "difficulty": "medium"
+  },
+  "Mission 9 Medal": {
+    "game": "Missions",
+    "description": "Mission 9",
+    "difficulty": "easy"
+  },
+  "Chocolate Box": {
+    "game": "Missions",
+    "description": "Mission 9 task",
+    "difficulty": "medium"
+  },
+  "Mission 10 Medal": {
+    "game": "Missions",
+    "description": "Mission 10",
+    "difficulty": "easy"
+  },
+  "Employee Award": {
+    "game": "Missions",
+    "description": "Mission 10 task",
+    "difficulty": "medium"
+  },
+  "Mission 11 Medal": {
+    "game": "Missions",
+    "description": "Mission 11",
+    "difficulty": "easy"
+  },
+  "Snow Globe": {
+    "game": "Missions",
+    "description": "Mission 11 task",
+    "difficulty": "medium"
+  },
+  "Food Fiasco": {
+    "game": "Pizzatron 3000",
+    "description": "3 mistakes",
+    "difficulty": "easy"
+  },
+  "Just Dessert": {
+    "game": "Pizzatron 3000",
+    "description": "Candy mode",
+    "difficulty": "easy"
+  },
+  "Chef's Hat": {
+    "game": "Pizzatron 3000",
+    "description": "20 pizzas",
+    "difficulty": "medium"
+  },
+  "Spice Sea": {
+    "game": "Pizzatron 3000",
+    "description": "3 hot sauce shrimp",
+    "difficulty": "medium"
+  },
+  "Cocoa Beans": {
+    "game": "Pizzatron 3000",
+    "description": "3 chocolate jellybean",
+    "difficulty": "medium"
+  },
+  "Fiery Squids": {
+    "game": "Pizzatron 3000",
+    "description": "3 hot sauce squid",
+    "difficulty": "hard"
+  },
+  "Candy Land": {
+    "game": "Pizzatron 3000",
+    "description": "3 pink marshmallow",
+    "difficulty": "hard"
+  },
+  "Pizza Chef": {
+    "game": "Pizzatron 3000",
+    "description": "30 pizzas",
+    "difficulty": "hard"
+  },
+  "Pizza Master": {
+    "game": "Pizzatron 3000",
+    "description": "40 pizzas",
+    "difficulty": "extreme"
+  },
+  "Dessert Chef": {
+    "game": "Pizzatron 3000",
+    "description": "40 dessert pizzas",
+    "difficulty": "extreme"
+  },
+  "Begin Build": {
+    "game": "Puffle Launch",
+    "description": "First cannon piece",
+    "difficulty": "easy"
+  },
+  "Launch Ready": {
+    "game": "Puffle Launch",
+    "description": "Full cannon",
+    "difficulty": "medium"
+  },
+  "Crab Attack": {
+    "game": "Puffle Launch",
+    "description": "1 crab",
+    "difficulty": "medium"
+  },
+  "Quick Launch": {
+    "game": "Puffle Launch",
+    "description": "35 mins",
+    "difficulty": "medium"
+  },
+  "Turbo Time": {
+    "game": "Puffle Launch",
+    "description": "1 turbo level",
+    "difficulty": "medium"
+  },
+  "Epic Cannon": {
+    "game": "Puffle Launch",
+    "description": "Epic cannon",
+    "difficulty": "hard"
+  },
+  "Crab Crash": {
+    "game": "Puffle Launch",
+    "description": "3 crabs",
+    "difficulty": "hard"
+  },
+  "Crab Battle": {
+    "game": "Puffle Launch",
+    "description": "6 crabs",
+    "difficulty": "hard"
+  },
+  "Supersonic Launch": {
+    "game": "Puffle Launch",
+    "description": "25 mins",
+    "difficulty": "hard"
+  },
+  "Turbo Battle": {
+    "game": "Puffle Launch",
+    "description": "Turbo crab",
+    "difficulty": "hard"
+  },
+  "Light Speed Launch": {
+    "game": "Puffle Launch",
+    "description": "18 mins",
+    "difficulty": "extreme"
+  },
+  "Turbo Master": {
+    "game": "Puffle Launch",
+    "description": "All turbo",
+    "difficulty": "extreme"
+  },
+  "1 Coin Bag (Puffle Rescue)": {
+    "game": "Puffle Rescue",
+    "description": "1 coin bag snow",
+    "difficulty": "easy"
+  },
+  "Quick Catch": {
+    "game": "Puffle Rescue",
+    "description": "1 falling coin bag cave",
+    "difficulty": "easy"
+  },
+  "Rapid Rescue": {
+    "game": "Puffle Rescue",
+    "description": "5 sea levels -30s",
+    "difficulty": "easy"
+  },
+  "1 Coin Bubble": {
+    "game": "Puffle Rescue",
+    "description": "1 coin bag sea",
+    "difficulty": "easy"
+  },
+  "SOS 30": {
+    "game": "Puffle Rescue",
+    "description": "30 snow puffles",
+    "difficulty": "medium"
+  },
+  "2 Coin Bags": {
+    "game": "Puffle Rescue",
+    "description": "2 coin bags snow",
+    "difficulty": "medium"
+  },
+  "Snow Student": {
+    "game": "Puffle Rescue",
+    "description": "Snow lvl3 70- moves",
+    "difficulty": "medium"
+  },
+  "Cave Coins": {
+    "game": "Puffle Rescue",
+    "description": "Lvl1 hidden coin bag cave",
+    "difficulty": "medium"
+  },
+  "Cave Coins Plus": {
+    "game": "Puffle Rescue",
+    "description": "Lvl4 hidden coin bag cave",
+    "difficulty": "medium"
+  },
+  "Super Catch": {
+    "game": "Puffle Rescue",
+    "description": "2 falling coin bags cave",
+    "difficulty": "medium"
+  },
+  "Easy Cannon": {
+    "game": "Puffle Rescue",
+    "description": "8 cannons",
+    "difficulty": "medium"
+  },
+  "Close Call": {
+    "game": "Puffle Rescue",
+    "description": "Snowball dodge",
+    "difficulty": "medium"
+  },
+  "Express Rescue": {
+    "game": "Puffle Rescue",
+    "description": "10 sea levels -30s",
+    "difficulty": "medium"
+  },
+  "10 Sea Levels": {
+    "game": "Puffle Rescue",
+    "description": "10 sea levels full lives",
+    "difficulty": "medium"
+  },
+  "2 Coin Bubbles": {
+    "game": "Puffle Rescue",
+    "description": "2 coin bags sea",
+    "difficulty": "medium"
+  },
+  "SOS 60": {
+    "game": "Puffle Rescue",
+    "description": "60 snow puffles",
+    "difficulty": "hard"
+  },
+  "3 Coin Bags (Puffle Rescue)": {
+    "game": "Puffle Rescue",
+    "description": "3 coin bags snow",
+    "difficulty": "hard"
+  },
+  "Snow Master": {
+    "game": "Puffle Rescue",
+    "description": "Snow lvl6 160- moves",
+    "difficulty": "hard"
+  },
+  "Cave Coins Max": {
+    "game": "Puffle Rescue",
+    "description": "Lvl7 hidden coin bag cave",
+    "difficulty": "hard"
+  },
+  "Expert Catch": {
+    "game": "Puffle Rescue",
+    "description": "3 falling coin bags cave",
+    "difficulty": "hard"
+  },
+  "Super Cannon": {
+    "game": "Puffle Rescue",
+    "description": "12 cannons",
+    "difficulty": "hard"
+  },
+  "Extreme Rescue": {
+    "game": "Puffle Rescue",
+    "description": "20 sea levels -30s",
+    "difficulty": "hard"
+  },
+  "20 Sea Levels": {
+    "game": "Puffle Rescue",
+    "description": "20 sea levels full lives",
+    "difficulty": "hard"
+  },
+  "3 Coin Bubbles": {
+    "game": "Puffle Rescue",
+    "description": "3 coin bags sea",
+    "difficulty": "hard"
+  },
+  "Snow Hero": {
+    "game": "Puffle Rescue",
+    "description": "Snow lvl9 270- moves",
+    "difficulty": "extreme"
+  },
+  "Extreme Cannon": {
+    "game": "Puffle Rescue",
+    "description": "15 cannons",
+    "difficulty": "extreme"
+  },
+  "30 Sea Levels": {
+    "game": "Puffle Rescue",
+    "description": "30 sea levels full lives",
+    "difficulty": "extreme"
+  },
+  "Bonus Snack": {
+    "game": "Pufflescape",
+    "description": "Bonus Puffle O",
+    "difficulty": "easy"
+  },
+  "On a Roll": {
+    "game": "Pufflescape",
+    "description": "Lvl4",
+    "difficulty": "easy"
+  },
+  "Puzzle Pro": {
+    "game": "Pufflescape",
+    "description": "Lvl8",
+    "difficulty": "easy"
+  },
+  "Puffle O Feast": {
+    "game": "Pufflescape",
+    "description": "All puffle O's in a set",
+    "difficulty": "medium"
+  },
+  "Bite in Time": {
+    "game": "Pufflescape",
+    "description": "Disappearing Puffle O",
+    "difficulty": "medium"
+  },
+  "Extreme Puzzler": {
+    "game": "Pufflescape",
+    "description": "Lvl12",
+    "difficulty": "medium"
+  },
+  "Master Roller": {
+    "game": "Pufflescape",
+    "description": "Lvl17",
+    "difficulty": "medium"
+  },
+  "Quick Snack": {
+    "game": "Pufflescape",
+    "description": "All disappearing in a level",
+    "difficulty": "hard"
+  },
+  "Epic Roller": {
+    "game": "Pufflescape",
+    "description": "Lvl22",
+    "difficulty": "hard"
+  },
+  "Ice Master (Pufflescape)": {
+    "game": "Pufflescape",
+    "description": "Lvl23",
+    "difficulty": "hard"
+  },
+  "Fast Food": {
+    "game": "Pufflescape",
+    "description": "All disappearing in a set",
+    "difficulty": "extreme"
+  },
+  "Fruit Squeeze": {
+    "game": "Smoothie Smash",
+    "description": "5 recipes",
+    "difficulty": "easy"
+  },
+  "Shipshake": {
+    "game": "Smoothie Smash",
+    "description": "Rockhopper",
+    "difficulty": "easy"
+  },
+  "Berry Smart": {
+    "game": "Smoothie Smash",
+    "description": "Aunt Arctic",
+    "difficulty": "easy"
+  },
+  "Beary Berry": {
+    "game": "Smoothie Smash",
+    "description": "Herbert",
+    "difficulty": "easy"
+  },
+  "Tasty Treat": {
+    "game": "Smoothie Smash",
+    "description": "10 recipes",
+    "difficulty": "medium"
+  },
+  "Fruit Splatter": {
+    "game": "Smoothie Smash",
+    "description": "10 fruit",
+    "difficulty": "medium"
+  },
+  "Fruit Power": {
+    "game": "Smoothie Smash",
+    "description": "2 mins",
+    "difficulty": "medium"
+  },
+  "Deflector": {
+    "game": "Smoothie Smash",
+    "description": "2 mins no hit",
+    "difficulty": "medium"
+  },
+  "Energizer": {
+    "game": "Smoothie Smash",
+    "description": "20 recipes",
+    "difficulty": "hard"
+  },
+  "Fruit Stomper": {
+    "game": "Smoothie Smash",
+    "description": "20 fruit",
+    "difficulty": "hard"
+  },
+  "Smoothie Warrior": {
+    "game": "Smoothie Smash",
+    "description": "4 mins",
+    "difficulty": "hard"
+  },
+  "Smoothie Survivor": {
+    "game": "Smoothie Smash",
+    "description": "3 mins no hit",
+    "difficulty": "hard"
+  },
+  "Smoothie Zing": {
+    "game": "Smoothie Smash",
+    "description": "30 recipes",
+    "difficulty": "extreme"
+  },
+  "Fruit Smasher": {
+    "game": "Smoothie Smash",
+    "description": "50 correct fruit",
+    "difficulty": "extreme"
+  },
+  "Smoothie Master": {
+    "game": "Smoothie Smash",
+    "description": "8 mins",
+    "difficulty": "extreme"
+  },
+  "Smoothie Hero": {
+    "game": "Smoothie Smash",
+    "description": "4 mins no hit",
+    "difficulty": "extreme"
+  },
+  "Ready For Duty": {
+    "game": "System Defender",
+    "description": "Tutorial",
+    "difficulty": "easy"
+  },
+  "Garbage Disposal": {
+    "game": "System Defender",
+    "description": "100 enemies",
+    "difficulty": "easy"
+  },
+  "Bug Overload": {
+    "game": "System Defender",
+    "description": "1st level",
+    "difficulty": "easy"
+  },
+  "Strategic Success": {
+    "game": "System Defender",
+    "description": "100 enemies no upgrade",
+    "difficulty": "medium"
+  },
+  "Mono Mechanic": {
+    "game": "System Defender",
+    "description": "Single Color",
+    "difficulty": "medium"
+  },
+  "Tactical Pro": {
+    "game": "System Defender",
+    "description": "100 enemies no damage",
+    "difficulty": "medium"
+  },
+  "Master Mechanic": {
+    "game": "System Defender",
+    "description": "Fill all spaces",
+    "difficulty": "medium"
+  },
+  "Herbert Attacks": {
+    "game": "System Defender",
+    "description": "Herbert 1",
+    "difficulty": "medium"
+  },
+  "Klutzy Attack": {
+    "game": "System Defender",
+    "description": "Klutzy",
+    "difficulty": "medium"
+  },
+  "Strategic Master": {
+    "game": "System Defender",
+    "description": "250 enemies no upgrade",
+    "difficulty": "hard"
+  },
+  "Tactical Ace": {
+    "game": "System Defender",
+    "description": "250 enemies no damage",
+    "difficulty": "hard"
+  },
+  "Test Bot Trio": {
+    "game": "System Defender",
+    "description": "Test Bots",
+    "difficulty": "hard"
+  },
+  "Protobot Attack": {
+    "game": "System Defender",
+    "description": "Protobot",
+    "difficulty": "hard"
+  },
+  "Track Herbert": {
+    "game": "System Defender",
+    "description": "Herbert 2",
+    "difficulty": "extreme"
+  },
+  "1 Coin Bag (Thin Ice)": {
+    "game": "Thin Ice",
+    "description": "1 coin bag",
+    "difficulty": "easy"
+  },
+  "3 Coin Bags (Thin Ice)": {
+    "game": "Thin Ice",
+    "description": "3 coin bags",
+    "difficulty": "medium"
+  },
+  "6 Coin Bags": {
+    "game": "Thin Ice",
+    "description": "6 coin bags",
+    "difficulty": "medium"
+  },
+  "Iced Treasure": {
+    "game": "Thin Ice",
+    "description": "Treasure room",
+    "difficulty": "medium"
+  },
+  "10 Coin Bags": {
+    "game": "Thin Ice",
+    "description": "10 coin bags",
+    "difficulty": "hard"
+  },
+  "Ice Bonus": {
+    "game": "Thin Ice",
+    "description": "Melt 480 tiles",
+    "difficulty": "hard"
+  },
+  "Ice Trekker": {
+    "game": "Thin Ice",
+    "description": "All blocks",
+    "difficulty": "hard"
+  },
+  "All Coin Bags": {
+    "game": "Thin Ice",
+    "description": "All coin bags",
+    "difficulty": "extreme"
+  },
+  "Ice Master (Thin Ice)": {
+    "game": "Thin Ice",
+    "description": "ASM",
+    "difficulty": "extreme"
+  }
+}
